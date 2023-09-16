@@ -1,0 +1,13 @@
+[31-Aug-2023 13:43:41 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/studiod1/public_html/pbjkt/connection.php on line 8
+[31-Aug-2023 14:01:35 UTC] PHP Notice:  Undefined index: idprinter in /home/studiod1/public_html/pbjkt/produk_edit.php on line 25
+[31-Aug-2023 14:01:35 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/studiod1/public_html/pbjkt/produk_edit.php on line 29
+[31-Aug-2023 14:01:35 UTC] PHP Notice:  Undefined index: idprinter in /home/studiod1/public_html/pbjkt/produk_edit.php on line 46
+[31-Aug-2023 14:03:45 UTC] PHP Notice:  Undefined index: idprinter in /home/studiod1/public_html/pbjkt/produk_edit.php on line 25
+[31-Aug-2023 14:03:45 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/studiod1/public_html/pbjkt/produk_edit.php on line 29
+[31-Aug-2023 14:03:45 UTC] PHP Notice:  Undefined index: idprinter in /home/studiod1/public_html/pbjkt/produk_edit.php on line 46
+[31-Aug-2023 14:08:56 UTC] PHP Notice:  Undefined index: idprinter in /home/studiod1/public_html/pbjkt/produk_edit.php on line 25
+[31-Aug-2023 14:08:56 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/studiod1/public_html/pbjkt/produk_edit.php on line 29
+[31-Aug-2023 14:08:56 UTC] PHP Notice:  Undefined index: idprinter in /home/studiod1/public_html/pbjkt/produk_edit.php on line 46
+[31-Aug-2023 16:05:19 UTC] PHP Notice:  Undefined index: idprinter in /home/studiod1/public_html/pbjkt/produk_edit.php on line 25
+[31-Aug-2023 16:05:19 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/studiod1/public_html/pbjkt/produk_edit.php on line 29
+[31-Aug-2023 16:05:19 UTC] PHP Notice:  Undefined index: idprinter in /home/studiod1/public_html/pbjkt/produk_edit.php on line 46
